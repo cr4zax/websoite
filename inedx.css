@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+
+
 body {
     background-image: url("https://wallpaperaccess.com/full/1567666.png");
  }
@@ -20,11 +23,14 @@ body {
 
   .headding {
       text-align: center;
-      color: cornflowerblue;
+      color: rgb(0, 255, 136);
+      font-family: 'Courier New', Courier, monospace;
   }
   .text {
       text-align: center;
       color: blueviolet;
       text-decoration-color: aqua;
+      font-family: 'Ubuntu Mono', monospace;
+      font-size: 25px;
   }
      
