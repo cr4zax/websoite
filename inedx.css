@@ -1,0 +1,30 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/1567666.png");
+ }
+ .video {
+    padding: 15px; /* JUST TO LOOK COOL */
+    border: 0px solid rgb(94, 255, 0);  /* JUST TO LOOK COOL */
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 0px 0px;
+    transition: all .3s ease-in-out;
+  }
+  
+  .video:hover {
+    box-shadow: rgba(0, 0, 0, 0.22) 10px 10px 10px;
+    transform: translate3d(0px, -20px, 0px);
+  }
+ .video {
+        width: 650px; /* height is 225px */
+        margin-left: calc(30vw - 40px); 
+        margin-top: calc(20vh - 100px);
+      }
+
+  .headding {
+      text-align: center;
+      color: cornflowerblue;
+  }
+  .text {
+      text-align: center;
+      color: blueviolet;
+      text-decoration-color: aqua;
+  }
+     
