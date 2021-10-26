@@ -12,7 +12,8 @@ body {
   }
   
   .video:hover {
-    box-shadow: rgba(0, 0, 0, 0.22) 0px 0px 10px;
+    box-shadow: rgba(0, 0, 0, 0.22) 0 0 10px ;
+    box-shadow: rgba(0, 0, 0, 0.22) 0 0 10px ;
     transform: translate3d(0px, -20px, 0px);
   }
  .video {
