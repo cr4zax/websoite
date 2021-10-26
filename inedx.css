@@ -5,7 +5,7 @@ body {
     background-image: url("https://wallpaperaccess.com/full/1567666.png");
  }
  .video {
-    padding: 15px; /* JUST TO LOOK COOL */
+    padding: 0px; /* JUST TO LOOK COOL */
     border: 0px solid rgb(94, 255, 0);  /* JUST TO LOOK COOL */
     box-shadow: rgba(0, 0, 0, 0.06) 0px 0px 0px;
     transition: all .3s ease-in-out;
@@ -14,7 +14,7 @@ body {
   .video:hover {
     box-shadow: rgba(0, 0, 0, 0.22) 0 0 10px ;
     box-shadow: rgba(0, 0, 0, 0.22) 0 0 10px ;
-    transform: translate3d(0px, -20px, 0px);
+    transform: translate3d(0px, 0px, -20px);
   }
  .video {
         width: 650px; /* height is 225px */
